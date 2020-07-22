@@ -1,0 +1,84 @@
+.navbar{
+    font-family: 'Poppins', sans-serif;
+    background-color:white !important;
+}
+.navbar-brand{
+    font-size: 28px;
+    font-weight: bold;
+}
+.nav-link{
+font-size: 20px;
+
+}
+.navbar-nav :hover{
+color:#00a086 !important;
+}
+
+#main{
+font-family: 'Poppins', sans-serif;
+max-width: 100%;
+}
+
+
+
+#bt{
+	background-color:whitesmoke; 
+}
+
+.main {
+  height: 80vh;
+  min-height: 500px;
+  background-image: url('https://source.unsplash.com/BtbjCFUvBXs/1920x1080');
+  font-family: 'Poppins', sans-serif;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#btn{
+  border-radius: 4px;
+  border:none;
+  background-color: #a3a3a3;
+  color: white;
+  width: 100px;
+  font-size:20px;
+  outline:none;
+}
+
+
+
+#abt{
+  font-family: 'Poppins', sans-serif;
+  max-height: 400px;
+
+}
+
+.list-group {
+    list-style: disc inside;
+
+}
+
+.list-group-item {
+    display: list-item;
+}
+
+ .find-more{
+   text-align: right;
+ }
+
+
+.label-theme{
+  background:white;
+  font-size: 14px;
+  padding: .3em .7em .3em;
+  color: #fff;
+  border-radius: .25em;
+}
+
+.label a{
+  color: inherit;
+}
+
+#file{
+  width: 65%;
+}
